@@ -54,7 +54,7 @@ Created a new column:
 •	Food Category (Veg / Non-Veg) using keyword detection
 
 
-📊 5. KPI Calculation
+ 5. KPI Calculation
 Calculated key business metrics:
 •	Total Sales (INR)
 •	Average Rating
