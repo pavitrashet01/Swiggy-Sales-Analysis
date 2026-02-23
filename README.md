@@ -1,4 +1,4 @@
-# Swiggy-Sales-Analysis
+# Swiggy-Sales-Analysis (Python)
 
 1. Project Overview
 This project analyzes Swiggy food delivery sales data using Python to extract business insights, track KPIs, and visualize revenue trends.
