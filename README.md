@@ -10,8 +10,6 @@ Tools & Technologies Used
 •	Pandas
 •	NumPy
 •	Matplotlib
-•	Seaborn
-•	Plotly
 •	Excel Dataset
 
  3. Dataset Description
